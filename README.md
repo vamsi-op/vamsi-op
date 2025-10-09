@@ -1,3 +1,11 @@
+<div align="center">
+  <a href="https://github.com/vamsi-op">
+    <img src="https://komarev.com/ghpvc/?username=vamsi-op&style=flat-square&color=blueviolet" alt="Profile views"/>
+  </a>
+  <a href="https://github.com/vamsi-op?tab=followers">
+    <img src="https://img.shields.io/github/followers/vamsi-op?style=flat-square&logo=github&label=Followers&color=blue" alt="Followers"/>
+  </a>
+</div>
 Hello World! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Vamsi Puttepu
 ======================================================================================================================================
 
