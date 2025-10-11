@@ -30,8 +30,6 @@ About Me
 * 🤝  I'm open to collaborating on innovative AI and web development projects
 * ⚡  I'm an AI expert and web dev magician, transforming ideas into reality via code! 🧙‍♂️
 
-<a href="https://www.github.com/vamsi-op" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/vamsi-op?logo=github&style=for-the-badge&color=f97316&labelColor=1c1917" /></a>
 
 ### Skills
 
