@@ -19,10 +19,8 @@
 ---
 
 
-AI and Web Developer
+About Me
 --------------------
-
-I'm a passionate developer with a love for AI and web development. 🌐🤖
 
 * 🌍  I'm based in Visakhapatnam
 * 🖥️  See my portfolio at [MyPortofolio](http://vamsi-op.github.io/)
