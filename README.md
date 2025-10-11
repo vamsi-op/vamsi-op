@@ -7,7 +7,16 @@
   </a>
 </div>
 
-# Hello World! I'm Vamsi Puttepu
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <h1>
+    Hi there, I'm Vamsi Puttepu
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+  <h3>Tech enthusiast on a journey to build smarter solutions with code and creativity.</h3>
+</div>
+
+---
 
 
 AI and Web Developer
