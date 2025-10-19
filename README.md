@@ -25,7 +25,6 @@ About Me
 * 🌍  I'm based in Visakhapatnam
 * 🖥️  See my portfolio at [MyPortofolio](http://vamsi-op.github.io/)
 * ✉️  You can contact me at [vamsiv980@gmail.com](mailto:vamsiv980@gmail.com)
-* 🚀  I'm currently working on [Jarvis](http://github.com/KrishnaSrinivas-24/JARVIS)
 * 🧠  I'm learning about the latest trends in AI and web technologies
 * 🤝  I'm open to collaborating on innovative AI and web development projects
 * ⚡  I'm an AI expert and web dev magician, transforming ideas into reality via code! 🧙‍♂️
