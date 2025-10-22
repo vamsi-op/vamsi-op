@@ -22,7 +22,7 @@
 <h3 align="center"> GitHub Trophies </h3>
 <p align="center"><img src="https://github-trophies.vercel.app/?username=vamsi-op&theme=alduin&no-frame=false&no-bg=true&margin-w=4" /></p>
 
-<div align="center">
+<!-- <div align="center">
   <table>
     <tr>
       <h3 align = "center">Credly Badges</h3>
@@ -50,7 +50,7 @@
       </td>
     </tr>
   </table>
-</div>
+</div> -->
 
 ### Skills
 
