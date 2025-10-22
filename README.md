@@ -19,6 +19,9 @@
 ---
 [![An image of @vamsiop's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vamsiop)](https://holopin.io/@vamsiop)
 
+<h3 align="center"> GitHub Trophies </h3>
+<p align="center"><img src="https://github-trophies.vercel.app/?username=vamsi-op&theme=alduin&no-frame=false&no-bg=true&margin-w=4" /></p>
+
 About Me
 --------------------
 
