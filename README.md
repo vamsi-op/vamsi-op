@@ -17,7 +17,7 @@
 </div>
 
 ---
-
+[![An image of @vamsiop's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vamsiop)](https://holopin.io/@vamsiop)
 
 About Me
 --------------------
