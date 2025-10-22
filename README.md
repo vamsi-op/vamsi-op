@@ -22,16 +22,35 @@
 <h3 align="center"> GitHub Trophies </h3>
 <p align="center"><img src="https://github-trophies.vercel.app/?username=vamsi-op&theme=alduin&no-frame=false&no-bg=true&margin-w=4" /></p>
 
-About Me
---------------------
-
-* 🌍  I'm based in Visakhapatnam
-* 🖥️  See my portfolio at [MyPortofolio](http://vamsi-op.github.io/)
-* ✉️  You can contact me at [vamsiv980@gmail.com](mailto:vamsiv980@gmail.com)
-* 🧠  I'm learning about the latest trends in AI and web technologies
-* 🤝  I'm open to collaborating on innovative AI and web development projects
-* ⚡  I'm an AI expert and web dev magician, transforming ideas into reality via code! 🧙‍♂️
-
+<div align="center">
+  <table>
+    <tr>
+      <h3 align = "center">Credly Badges</h3>
+    </tr>
+    <tr>
+      <td>
+         <a href="https://www.credly.com/badges/749f7f48-0f3b-47da-af2b-b2e8966dea85/public_url">
+        <img src="https://images.credly.com/size/150x150/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png">
+        </a>
+      </td>
+      <td>
+        <a href="https://www.credly.com/badges/126a8bfe-0f3e-4803-9e0e-6890f1f34d5b/public_url">
+        <img src="https://images.credly.com/size/150x150/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob">
+        </a>
+      </td>
+      <td>
+        <a href="https://www.credly.com/badges/dc5ce116-e946-407a-9e48-3dfe9a32518a/public_url">
+        <img src="https://images.credly.com/size/127x127/images/59248cc0-2be2-432c-8268-8cded324ec33/image.png">
+        </a>
+      </td>
+      <td>
+        <a href="https://www.credly.com/badges/78121bcd-c177-4709-b372-53ce0372fe0f/public_url">
+        <img src="https://images.credly.com/size/127x127/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ### Skills
 
